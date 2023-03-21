@@ -6,7 +6,7 @@ Clone the repository in your specific directory by terminal ```git clone https:/
 ### Virtual Environment
 Open editor where manage.py exist, make virtual env by terminal.
 
-```virtualenv myprojectenv```
+```virtualenv venv```
 #### Activate your virtual environment
 ```.\venv\Scripts\activate```
 ### Install packages
