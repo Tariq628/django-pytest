@@ -1,7 +1,7 @@
 # django-pytest
 
 ### Clone repo
-Clone the repository in your specific directory by terminal ```git clone https://github.com/Tariq628/Article4u```
+Clone the repository in your specific directory by terminal ```git clone https://github.com/Tariq628/django-pytest```
 
 ### Virtual Environment
 Open editor where manage.py exist, make virtual env by terminal.
